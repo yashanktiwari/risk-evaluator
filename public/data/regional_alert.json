@@ -1,0 +1,24 @@
+{
+    "regionalAlerts": [
+        {
+            "alertType": "Earthquake",
+            "title": "Regional High Alert Area: Earthquakes",
+            "description": "Due to the geographic location and recent incidents, this area is on high alert for potential earthquakes. Earthquakes can cause significant damage, and having earthquake insurance can greatly minimize the impact on your family. Additionally, residents should be prepared for fire emergencies. Stay informed and prepared."
+        },
+        {
+            "alertType": "Flood/Storms",
+            "title": "Regional High Alert Area: Floods",
+            "description": "Due to the geographic location and seasonal patterns, this area is on high alert for potential floods. Flooding can damage properties and endanger lives. Residents are advised to be prepared with flood barriers, proper drainage, and evacuation plans. Stay informed and prepared."
+        },
+        {
+            "alertType": "Fire",
+            "title": "Regional High Alert Area: Fires",
+            "description": "With the prevailing dry conditions and history of incidents, this region is on high alert for wildfires. Fires can spread rapidly, causing destruction and loss of life. It's crucial for residents to have evacuation plans in place, maintain a defensible space around properties, and stay updated on current fire conditions."
+        },
+        {
+            "alertType": "Deep Freeze",
+            "title": "Regional High Alert Area: Deep Freeze",
+            "description": "Due to the geographic location and recent incidents, this area is on high alert for potential deep freeze conditions. Extreme cold temperatures can be life-threatening and cause significant disruptions. Residents are advised to ensure proper insulation, heating arrangements, and emergency supplies. Stay informed and prepared."
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "recommendations": {
+        "Earthquake": {
+            "kit": [
+                "Emergency water filter",
+                "Non-perishable food for 3 days",
+                "Flashlight with extra batteries",
+                "First-aid kit",
+                "Personal safety whistle"
+            ],
+            "financial": [
+                "Have a small cash reserve in case ATMs/banks aren't operational.",
+                "Keep important documents (like insurance, titles, identification) in a waterproof and fireproof container.",
+                "Ensure you have adequate coverage for your assets, especially earthquake insurance."
+            ]
+        },
+        "Flood": {
+            "kit": [
+                "Waterproof bags for important documents",
+                "Emergency water filter",
+                "Non-perishable food for 3 days",
+                "Flashlight with extra batteries",
+                "Inflatable raft or flotation device"
+            ],
+            "financial": [
+                "Keep important documents (like insurance, titles, identification) in a waterproof container.",
+                "Consider flood insurance if not already covered."
+            ]
+        },
+        "Fire": {
+            "kit": [
+                "Fire-resistant bag for important documents",
+                "Emergency water filter",
+                "Non-perishable food for 3 days",
+                "N95 respirator masks",
+                "Wet cloth or bandana to cover nose and mouth"
+            ],
+            "financial": [
+                "Ensure your property insurance covers fire damage.",
+                "Consider saving a backup of important digital files in a cloud storage."
+            ]
+        },
+        "Deep Freeze": {
+            "kit": [
+                "Thermal blankets",
+                "Non-perishable food for 3 days",
+                "Flashlight with extra batteries",
+                "Extra warm clothing",
+                "Battery-powered heater"
+            ],
+            "financial": [
+                "Keep a cash reserve as electronic systems might fail.",
+                "Ensure you have coverage for burst pipes or other cold-related damages."
+            ]
+        }
+    }
+}

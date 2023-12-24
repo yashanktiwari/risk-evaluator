@@ -1,0 +1,402 @@
+{
+    "AL": {
+        "Earthquake": 5,
+        "Fire": 15,
+        "Freeze": 15,
+        "Flood/Storms": 57,
+        "Civil Unrest": 6,
+        "Terrorist Attack": 2
+    },
+    "AK": {
+        "Earthquake": 30,
+        "Fire": 10,
+        "Freeze": 40,
+        "Flood/Storms": 12,
+        "Civil Unrest": 6,
+        "Terrorist Attack": 2
+    },
+    "AZ": {
+        "Earthquake": 10,
+        "Fire": 40,
+        "Freeze": 10,
+        "Flood/Storms": 32,
+        "Civil Unrest": 6,
+        "Terrorist Attack": 2
+    },
+    "AR": {
+        "Earthquake": 10,
+        "Fire": 20,
+        "Freeze": 15,
+        "Flood/Storms": 47,
+        "Civil Unrest": 6,
+        "Terrorist Attack": 2
+    },
+    "CA": {
+        "Earthquake": 40,
+        "Fire": 35,
+        "Freeze": 5,
+        "Flood/Storms": 12,
+        "Civil Unrest": 6,
+        "Terrorist Attack": 2
+    },
+    "CO": {
+        "Earthquake": 15,
+        "Fire": 30,
+        "Freeze": 20,
+        "Flood/Storms": 28,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "CT": {
+        "Earthquake": 5,
+        "Fire": 15,
+        "Freeze": 30,
+        "Flood/Storms": 43,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "DE": {
+        "Earthquake": 5,
+        "Fire": 20,
+        "Freeze": 20,
+        "Flood/Storms": 48,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "FL": {
+        "Earthquake": 5,
+        "Fire": 20,
+        "Freeze": 10,
+        "Flood/Storms": 57,
+        "Civil Unrest": 6,
+        "Terrorist Attack": 2
+    },
+    "GA": {
+        "Earthquake": 5,
+        "Fire": 25,
+        "Freeze": 15,
+        "Flood/Storms": 49,
+        "Civil Unrest": 4,
+        "Terrorist Attack": 2
+    },
+    "HI": {
+        "Earthquake": 35,
+        "Fire": 15,
+        "Freeze": 5,
+        "Flood/Storms": 37,
+        "Civil Unrest": 6,
+        "Terrorist Attack": 2
+    },
+    "ID": {
+        "Earthquake": 15,
+        "Fire": 35,
+        "Freeze": 20,
+        "Flood/Storms": 22,
+        "Civil Unrest": 6,
+        "Terrorist Attack": 2
+    },
+    "IL": {
+        "Earthquake": 10,
+        "Fire": 25,
+        "Freeze": 20,
+        "Flood/Storms": 38,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "IN": {
+        "Earthquake": 5,
+        "Fire": 25,
+        "Freeze": 25,
+        "Flood/Storms": 36,
+        "Civil Unrest": 7,
+        "Terrorist Attack": 2
+    },
+    "IA": {
+        "Earthquake": 5,
+        "Fire": 20,
+        "Freeze": 25,
+        "Flood/Storms": 43,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "KS": {
+        "Earthquake": 5,
+        "Fire": 30,
+        "Freeze": 20,
+        "Flood/Storms": 38,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "KY": {
+        "Earthquake": 10,
+        "Fire": 20,
+        "Freeze": 25,
+        "Flood/Storms": 38,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "LA": {
+        "Earthquake": 5,
+        "Fire": 20,
+        "Freeze": 10,
+        "Flood/Storms": 58,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "ME": {
+        "Earthquake": 5,
+        "Fire": 20,
+        "Freeze": 35,
+        "Flood/Storms": 33,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "MD": {
+        "Earthquake": 5,
+        "Fire": 25,
+        "Freeze": 20,
+        "Flood/Storms": 43,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "MA": {
+        "Earthquake": 5,
+        "Fire": 20,
+        "Freeze": 30,
+        "Flood/Storms": 38,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "MI": {
+        "Earthquake": 5,
+        "Fire": 20,
+        "Freeze": 30,
+        "Flood/Storms": 38,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "MN": {
+        "Earthquake": 5,
+        "Fire": 20,
+        "Freeze": 30,
+        "Flood/Storms": 38,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "MS": {
+        "Earthquake": 5,
+        "Fire": 25,
+        "Freeze": 15,
+        "Flood/Storms": 50,
+        "Civil Unrest": 4,
+        "Terrorist Attack": 1
+    },
+    "MO": {
+        "Earthquake": 10,
+        "Fire": 25,
+        "Freeze": 20,
+        "Flood/Storms": 38,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "MT": {
+        "Earthquake": 15,
+        "Fire": 35,
+        "Freeze": 25,
+        "Flood/Storms": 18,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "NE": {
+        "Earthquake": 5,
+        "Fire": 25,
+        "Freeze": 30,
+        "Flood/Storms": 33,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "NV": {
+        "Earthquake": 20,
+        "Fire": 30,
+        "Freeze": 10,
+        "Flood/Storms": 33,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "NH": {
+        "Earthquake": 5,
+        "Fire": 20,
+        "Freeze": 35,
+        "Flood/Storms": 33,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "NJ": {
+        "Earthquake": 5,
+        "Fire": 20,
+        "Freeze": 20,
+        "Flood/Storms": 48,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "NM": {
+        "Earthquake": 10,
+        "Fire": 30,
+        "Freeze": 10,
+        "Flood/Storms": 43,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "NY": {
+        "Earthquake": 10,
+        "Fire": 20,
+        "Freeze": 20,
+        "Flood/Storms": 43,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "NC": {
+        "Earthquake": 5,
+        "Fire": 20,
+        "Freeze": 15,
+        "Flood/Storms": 53,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "ND": {
+        "Earthquake": 5,
+        "Fire": 20,
+        "Freeze": 35,
+        "Flood/Storms": 33,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "OH": {
+        "Earthquake": 5,
+        "Fire": 25,
+        "Freeze": 25,
+        "Flood/Storms": 38,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "OK": {
+        "Earthquake": 15,
+        "Fire": 25,
+        "Freeze": 15,
+        "Flood/Storms": 37,
+        "Civil Unrest": 6,
+        "Terrorist Attack": 2
+    },
+    "OR": {
+        "Earthquake": 30,
+        "Fire": 30,
+        "Freeze": 10,
+        "Flood/Storms": 24,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 1
+    },
+    "PA": {
+        "Earthquake": 5,
+        "Fire": 25,
+        "Freeze": 25,
+        "Flood/Storms": 38,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "RI": {
+        "Earthquake": 5,
+        "Fire": 20,
+        "Freeze": 25,
+        "Flood/Storms": 43,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "SC": {
+        "Earthquake": 10,
+        "Fire": 20,
+        "Freeze": 15,
+        "Flood/Storms": 49,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 1
+    },
+    "SD": {
+        "Earthquake": 5,
+        "Fire": 25,
+        "Freeze": 30,
+        "Flood/Storms": 33,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "TN": {
+        "Earthquake": 10,
+        "Fire": 20,
+        "Freeze": 20,
+        "Flood/Storms": 43,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "TX": {
+        "Earthquake": 10,
+        "Fire": 30,
+        "Freeze": 10,
+        "Flood/Storms": 43,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "UT": {
+        "Earthquake": 25,
+        "Fire": 30,
+        "Freeze": 10,
+        "Flood/Storms": 28,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "VT": {
+        "Earthquake": 5,
+        "Fire": 20,
+        "Freeze": 35,
+        "Flood/Storms": 33,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "VA": {
+        "Earthquake": 10,
+        "Fire": 20,
+        "Freeze": 20,
+        "Flood/Storms": 43,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "WA": {
+        "Earthquake": 30,
+        "Fire": 25,
+        "Freeze": 10,
+        "Flood/Storms": 28,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "WV": {
+        "Earthquake": 5,
+        "Fire": 20,
+        "Freeze": 25,
+        "Flood/Storms": 43,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "WI": {
+        "Earthquake": 5,
+        "Fire": 20,
+        "Freeze": 30,
+        "Flood/Storms": 38,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    },
+    "WY": {
+        "Earthquake": 15,
+        "Fire": 35,
+        "Freeze": 25,
+        "Flood/Storms": 18,
+        "Civil Unrest": 5,
+        "Terrorist Attack": 2
+    }
+}
